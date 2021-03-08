@@ -10,73 +10,88 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 891
+      base_file: v001.txt
     b805187c6f484097b56dc735d7812fc2:
       image_group_id: I1KG9416
       title: ''
       volume_number: 2
       total_pages: 779
+      base_file: v002.txt
     0d14350b84bf4ed5953d9f232f4f7cdd:
       image_group_id: I1KG9417
       title: ''
       volume_number: 3
       total_pages: 903
+      base_file: v003.txt
     06ae10387f73440696a2877d9acf7ab6:
       image_group_id: I1KG9418
       title: ''
       volume_number: 4
       total_pages: 918
+      base_file: v004.txt
     9614793d7cf946a29cbd8c363ee1f328:
       image_group_id: I1KG9419
       title: ''
       volume_number: 5
       total_pages: 850
+      base_file: v005.txt
     999e22976cda4b9eb83cf1fb8e47c77e:
       image_group_id: I1KG9420
       title: ''
       volume_number: 6
       total_pages: 958
+      base_file: v006.txt
     0d37e53c811f40f3acb420562cada0da:
       image_group_id: I1KG9421
       title: ''
       volume_number: 7
       total_pages: 724
+      base_file: v007.txt
     c6aced780c1f48a8ad827aa6e937b5f6:
       image_group_id: I1KG9422
       title: ''
       volume_number: 8
       total_pages: 682
+      base_file: v008.txt
     a57a5c5c75854d89a7fa9756fd96614f:
       image_group_id: I1KG9423
       title: ''
       volume_number: 9
       total_pages: 898
+      base_file: v009.txt
     4d5ab8ec62a3489d838338929c46d127:
       image_group_id: I1KG9424
       title: ''
       volume_number: 10
       total_pages: 1364
+      base_file: v010.txt
     f7d94564232949cb8f58ca22c6511d08:
       image_group_id: I1KG9425
       title: ''
       volume_number: 11
       total_pages: 702
+      base_file: v011.txt
     4674aff0c3c74f95b5bd1323f2c085d5:
       image_group_id: I1KG9426
       title: ''
       volume_number: 12
       total_pages: 567
+      base_file: v012.txt
     1691e307a2614197a36afdb09efed023:
       image_group_id: I1KG9427
       title: ''
       volume_number: 13
       total_pages: 883
+      base_file: v013.txt
     33cbf95f8174427f84573a89791efc12:
       image_group_id: I1KG9428
       title: ''
       volume_number: 14
       total_pages: 1104
+      base_file: v014.txt
     25428461265e4b8e8a52a03f170288e1:
       image_group_id: I1KG9429
       title: ''
       volume_number: 15
       total_pages: 811
+      base_file: v015.txt
